@@ -1,0 +1,9 @@
+{
+  "MailSettings": {
+    "ToAddress": "kaltenytmonika3@gmail.com"
+  },
+
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLocalDB;DataBase=TheWorldDb; trusted_Connection=true;" 
+  }
+}
